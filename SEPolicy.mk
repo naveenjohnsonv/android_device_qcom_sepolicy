@@ -31,4 +31,4 @@ PRODUCT_PRIVATE_SEPOLICY_DIRS := \
     $(SEPOLICY_PATH)/qva/product/private
 
 BOARD_SEPOLICY_M4DEFS += vendor_dataservice_app=dataservice_app
--include device/awaken/sepolicy/qcom/sepolicy.mk
+-include device/ssos/sepolicy/qcom/sepolicy.mk
