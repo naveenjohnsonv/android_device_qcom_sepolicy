@@ -30,4 +30,4 @@ PRODUCT_PRIVATE_SEPOLICY_DIRS := \
     $(SEPOLICY_PATH)/generic/product/private \
     $(SEPOLICY_PATH)/qva/product/private
 
--include device/ssos/sepolicy/qcom/sepolicy.mk
+-include device/kangos/sepolicy/qcom/sepolicy.mk
